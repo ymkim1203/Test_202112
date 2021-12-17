@@ -6,10 +6,6 @@
 <!-- #include virtual = "/common/inc/FunDef.asp"-->
 <!-- 공통 인클루드 페이지 종료 -->
 
-1
-2
-3
-
 <%
 	uId	= fncRequestCookie("userid")    ' 회원 아이디
 	ViewAnc = fncRequest("ViewAnc")
