@@ -5,9 +5,9 @@
 	Response.ContentType = "text/html; charset=euc-kr"
 %>
 
-3
-2
-1
+6
+5
+4
 
 <!-- #include virtual = "/common/inc/VarDef.asp" -->
 <!-- #include virtual = "/common/inc/RSexec.asp" -->
